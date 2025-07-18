@@ -1,12 +1,67 @@
-# React + Vite
+# SUMMARY
+- Repository: Gemini_Clone_Reactjs
+- Analysis ID: Venkatsuresh432-Gemini_Clone_Reactjs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+# 🚀 Gemini Clone - ReactJS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a **Gemini AI Chat Clone** built with **ReactJS**. The project replicates a simple AI chat interface with a clean, responsive UI using React functional components and modern styling.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Features
+
+- ✅ Modern Chat Interface
+- ✅ Responsive Design
+- ✅ React Functional Components with Hooks
+- ✅ Easy-to-customize layout
+- ✅ Clean and Minimal UI
+
+---
+
+## 🛠️ Tech Stack
+
+- **ReactJS**
+- **CSS**
+- **React Icons**
+- **Vite** (for fast build)
+
+---
+📊 Analysis Summary:
+- Total files: 16
+- Files analyzed: 7
+- Total size: 17.5 KB
+- Functions found: 9
+- Function calls: 29
+
+
+# FILE TREE
+    
+    Directory structure:
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    ├── src
+    │   ├── App.css
+    │   ├── App.jsx
+    │   ├── assets
+    │   │   └── assets.js
+    │   ├── components
+    │   │   ├── mainbar
+    │   │   │   ├── Main.jsx
+    │   │   │   └── main.css
+    │   │   └── sidebar
+    │   │       ├── Sidebar.jsx
+    │   │       └── sidebar.css
+    │   ├── config
+    │   │   └── gemini.js
+    │   ├── context
+    │   │   └── Context.jsx
+    │   ├── index.css
+    │   └── main.jsx
+    └── vite.config.js
+
+
+## 📷 Screenshots
+
