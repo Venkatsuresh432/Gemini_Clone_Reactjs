@@ -65,3 +65,5 @@ This is a **Gemini AI Chat Clone** built with **ReactJS**. The project replicate
 
 ## 📷 Screenshots
 
+![Gemini ui Screenshot](/screenshot(267).png)
+![Gemini ui Screenshot](/screenshot(268).png)
