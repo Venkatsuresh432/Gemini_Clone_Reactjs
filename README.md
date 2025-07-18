@@ -2,6 +2,7 @@
 - Repository: Gemini_Clone_Reactjs
 - Analysis ID: Venkatsuresh432-Gemini_Clone_Reactjs
 
+---
 
 # 🚀 Gemini Clone - ReactJS
 
@@ -34,6 +35,7 @@ This is a **Gemini AI Chat Clone** built with **ReactJS**. The project replicate
 - Functions found: 9
 - Function calls: 29
 
+---
 
 # FILE TREE
     
@@ -62,8 +64,12 @@ This is a **Gemini AI Chat Clone** built with **ReactJS**. The project replicate
     │   └── main.jsx
     └── vite.config.js
 
+---
 
 ## 📷 Screenshots
 
-![Gemini ui Screenshot](/screenshot(267).png)
-![Gemini ui Screenshot](/screenshot(268).png)
+![Gemini ui Screenshot](./Screenshot%20(267).png)
+
+---
+
+![Gemini ui Screenshot](./Screenshot%20(268).png)
